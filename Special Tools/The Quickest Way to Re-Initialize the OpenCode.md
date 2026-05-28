@@ -1,0 +1,5 @@
+- Open the PowerShell
+- Type ollama serve
+- Open 2nd PowerShell Console
+- Type ollama launch OpenCode
+- NOTE: you can sun this in admin or user mode. AI recommends user mode.
