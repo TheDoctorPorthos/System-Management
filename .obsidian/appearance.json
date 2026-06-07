@@ -1,1 +1,6 @@
-{}
+{
+  "interfaceFontFamily": "Times New Roman",
+  "textFontFamily": "Times New Roman",
+  "monospaceFontFamily": "Times New Roman",
+  "baseFontSize": 18
+}

@@ -1,0 +1,123 @@
+{
+  "id": "d0965207-2c1a-441a-8218-20c8a984f216",
+  "title": "are you there?",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "are you there?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nare you there?\n\n"
+        }
+      ],
+      "id": "6aa45071-4acc-4fd4-b1ee-e54f73863296",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Shell Applications/Microsoft PowerShell/Using RoboCopy and Rclone.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "are you there?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nare you there?\n\n"
+        }
+      ],
+      "id": "d01e8bbc-3a26-4251-9878-830cd4dcbd25",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Shell Applications/Microsoft PowerShell/Using RoboCopy and Rclone.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I am here. How can I help you today?",
+      "id": "76ade5e6-e9be-45b3-8ffe-80a8b10aab0f",
+      "metadata": {
+        "model": {
+          "providerId": "ollama",
+          "providerType": "ollama",
+          "id": "The Qwen Model",
+          "model": "qwen3.5:9b",
+          "promptLevel": 0,
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 79,
+          "completion_tokens": 359,
+          "total_tokens": 438
+        }
+      }
+    }
+  ],
+  "createdAt": 1779990607448,
+  "updatedAt": 1779990756782,
+  "schemaVersion": 1
+}
