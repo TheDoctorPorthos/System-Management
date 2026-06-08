@@ -1,0 +1,15 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace.md
+.obsidian/cache/
+.obsidian/graph.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache / temp
+.smtcmp_json_db/
+.smtcmp_vector_db.tar.gz
+.tmp.driveupload/
+.trash/
