@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94dd02b8c2f54e99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teaching Coding to Beginners.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teaching Coding to Beginners"
-            }
-          },
-          {
             "id": "739ae762c65ba5fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microsoft PowerShell the Circulatory System.md",
+                "file": "Special Projects/Setting Up Shell-gpt for Local LLM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft PowerShell the Circulatory System"
+              "title": "Setting Up Shell-gpt for Local LLM"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,8 +210,23 @@
   },
   "active": "739ae762c65ba5fb",
   "lastOpenFiles": [
+    "Special Tools/Using MiMo.md",
+    "Special Projects/Setting Up Shell-gpt for Local LLM.md",
+    "Special Tools/What OpenCode Tool can Do.md",
+    "Special Tools/The Quickest Way to Re-Initialize the OpenCode.md",
+    "Special Tools/Streamlined VS Code.md",
+    "Special Projects/Getting in and Out of the Tool.md",
+    "Special Projects/All About the OpenCode Application.md",
+    "Special Projects/My Local Private Synthesizer using PowerShell and Ollama.md",
+    "Special Projects/Test Run.md",
+    "Using the Shell-GPT/The Procedure and Workflow.md",
+    "My  Terminal-Native and Autonomous Agents/Initiating Each of the Agents.md",
+    "Using the Shell-GPT",
+    "My  Terminal-Native and Autonomous Agents/The Technical Breakdown of OpenCode Hermes and OpenClaw.md",
     "Teaching Coding to Beginners.md",
+    "My  Terminal-Native and Autonomous Agents",
     "Microsoft PowerShell the Circulatory System.md",
+    "Special Projects",
     "Understanding The Shell Language/Using Termux.md",
     "Using GitHub via Command Line/Syncing in Bulk.md",
     "RAG Bridge Scripts",
@@ -241,23 +241,10 @@
     "Using GitHub via Command Line/Use This Single Code in Termux for Systems Management.md",
     "Navigating Directories in PowerShell",
     "Using GitHub via Command Line/In Microsoft PowerShell and MacOS Terminal.md",
-    "The OpenSource AI Tool/Different Uses.md",
-    "Terminal Conversion Commands (Mac)/Converting PDFs to Markdown.md",
-    "Special Tools/What this Tool can Do.md",
-    "Special Tools/The Quickest Way to Re-Initialize the OpenCode.md",
-    "Special Tools/Streamlined VS Code.md",
-    "Special Tools/Getting in and Out of the Tool.md",
-    "Special Tools/All About the OpenCode Application.md",
-    "Shell Applications/Running Two LLMs in the Shell.md",
-    "Shell Applications/Deleting Files and Folders.md",
-    "Shell Applications/Best Tool for the Job.md",
-    "Setting-Up the GitHub Sync via Terminals/Instruction for Syncing Changes to Git Repository via PowerShell.md",
-    "Setting Up the Isolated Python Environment/The Python Environment Setup.md",
     "Setting Up the Isolated Python Environment",
     "2023024pap.pdf",
     "My Training Guide for the Shells",
     "Using GitHub via Command Line",
-    "copilot/copilot-custom-prompts",
-    "copilot"
+    "copilot/copilot-custom-prompts"
   ]
 }
